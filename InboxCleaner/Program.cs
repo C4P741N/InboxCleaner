@@ -9,7 +9,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        LaunchMain program = new LaunchMain();
+        MainController program = new MainController();
         program.Begin();
     }    
 }
